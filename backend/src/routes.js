@@ -6,7 +6,7 @@ const users = [{
     id: 1,
     name: 'Matheus Miranda',
     email: 'teste@gmail.com',
-    password: '123456'
+    password: '12345'
 }];
 
 routes.post('/login', (req, res) => {

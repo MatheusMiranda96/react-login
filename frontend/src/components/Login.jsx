@@ -14,7 +14,6 @@ function Login() {
             {
                 headers: { 'Content-Type' : 'application/json' }
 
-                
                 }
         )
         console.log('login efetuado')
